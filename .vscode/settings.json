@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.wmls": "javascriptlite",
+        "*.heex": "phoenix-heex",
+        "charconv": "c",
+        "string.h": "c",
+        "sstream": "c",
+        "stdlib.h": "c",
+        "array": "c"
+    }
+}
